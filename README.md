@@ -41,6 +41,10 @@ High pension increases (8%): This is the biggest single risk. Cash flow turns ne
 Low new entrants: Fewer people joining pushes the support ratio down to 2.27 and benefit cost up to 76.6%, with cash flow still positive.
 Combined stress: Cash flow turns negative in 2038, benefits reach 173% of contributions, and the reserve ratio drops to 4 years of benefits. Assets aren’t exhausted by 2055, but the model is heading that way, so it would likely run out shortly afterwards.
 
+## Charts
+  ![Assets by scenario](output/chart_assets_scenarios.png)
+  ![Key indicators](output/chart_indicators.png)
+
 ## Limitations
 - Flat exit, retirement and mortality rates; a fuller model would use age-based rates
   from a life table.
