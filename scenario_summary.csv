@@ -1,0 +1,6 @@
+scenario,first_year_negative_cash_flow,assets_exhausted_year,final_year,final_assets_bn,final_support_ratio,final_benefit_cost_pct,final_reserve_ratio_years
+Base case,,,2055,148.34,2.76,62.8,47.9
+Low investment returns (6%),,,2055,80.2,2.76,62.8,25.9
+High pension increases (8%),2043.0,,2055,88.37,2.76,142.1,12.6
+"Low new entrants (3,000/yr)",,,2055,116.22,2.27,76.6,51.6
+Combined stress,2038.0,,2055,20.31,2.27,173.4,4.0
