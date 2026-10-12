@@ -34,12 +34,12 @@ Each projection year:
 5. Closing assets = opening assets + net cash flow + investment income
 
 ## Key findings (base assumptions as supplied in `model.py`)
-Fill this section in with your own words after running the model and looking at the
-charts. Suggested points:
-- How the support ratio changes as the scheme matures
-- When (if ever) net cash flow turns negative in each scenario
-- Which assumption the results are most sensitive to, and why that matters for
-  funding decisions
+Main finding: The scheme’s long-term position depends far more on how fast pensions rise than on investment returns or membership growth. That’s a good point to raise with the panel, because it ties to funding decisions.
+Base case: The scheme stays healthy. Assets reach about K148bn by 2055, benefits take 62.8% of contributions, and the support ratio falls from about 9 actives per pensioner to 2.76.
+Low investment returns: Cash flow never turns negative, but assets end at K80bn instead of K148bn. Returns matter a lot for the final asset position, even when the scheme isn’t in trouble.
+High pension increases (8%): This is the biggest single risk. Cash flow turns negative in 2043 and benefits reach 142% of contributions by 2055. The scheme survives only because of its large asset cushion.
+Low new entrants: Fewer people joining pushes the support ratio down to 2.27 and benefit cost up to 76.6%, with cash flow still positive.
+Combined stress: Cash flow turns negative in 2038, benefits reach 173% of contributions, and the reserve ratio drops to 4 years of benefits. Assets aren’t exhausted by 2055, but the model is heading that way, so it would likely run out shortly afterwards.
 
 ## Limitations
 - Flat exit, retirement and mortality rates; a fuller model would use age-based rates
